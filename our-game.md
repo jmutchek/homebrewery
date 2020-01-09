@@ -129,7 +129,7 @@ Creatures that drop to zero hit points do not fall unconscious but are instead c
 Characters proficient in the Medicine skill can use their action to stabilize a dying creature within 5 ft. of them. The creature is automatically stabilized and a successful Medicine skill check (DC 5 + number of hit points below zero) restores the dying creature to 1 HP. When a creature recovers from the dying condition in this way they suffer one, cumulative level of exhaustion.
 
 ### Inspiration Dice
-Each player starts the session with one white Inspiration Die. You can roll this die to gain advantage on an epic maneauver or a skill check that ties directly to the character's trait or background with advantage. Once used this way the Inspiration Die is returned to the Inspiration Pool on the table. Any time the DM or Unused Inspiration Dice are lost at the end of the session.
+Anyone at the table can award Inspiration to another player. Inspiration is generally awarded for playing your character in a way that’s true to his or her personality traits, ideal, bond, or flaw. Inspiration can also be awarded in the heat of the action, when the nature of a character's action has roots in their background or personality.
 
 ### Potions in Combat
 Drinking a potion that is easily accessible (e.g. not in a backpack) requires only a bonus action.
