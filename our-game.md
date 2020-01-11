@@ -120,7 +120,7 @@ e.	One long term goal (something you may or may not ever accomplish, but influen
 # House Rules
 
 ### Improved Critical 
-When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together, then add any relevant modifiers as normal. At the end of your turn, you can take one additional standard action or move.
+When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together, then add any relevant modifiers as normal. At the end of your turn, you can take one additional standard action or move. __*The Lizotte Addendum:*__ *when two natural 20's are rolled during an attack with advantage or disadvantage, all of the attack's damage dice are rolled three times and added together. At the end of your turn, you can take two additional standard actions or moves.*
 
 ### Dropping to Zero Hit Points
 Creatures that drop to zero hit points do not fall unconscious but are instead considered _dying_. The dying condition is identical to being unconscious except that the creature is aware of their surroundings and can speak falteringly. Upon failing a final death saving throw, dying creatures can take a single Action before the end of their turn.
@@ -137,12 +137,18 @@ Drinking a potion that is easily accessible (e.g. not in a backpack) requires on
 ### The Identify Spell
 The Identify spell grants the caster a vision of the last time the item was used. This vision usually reveals one of the item’s abilities. Requirements for attunement are revealed but the item may have other properties that remain unknown.
 
+### Casting Rituals
+While casting a ritual, the caster must remain stationary for the duration of the ritual or effect.
+
 ```
 ```
 
 
-### Party Skill Checks & Aid
-Skill checks can only be rolled once for the party unless some significant change is introduced in the approach to the task. Only characters with proficiency in a skill can make a check or aid an ally in their skill check (which provides advantage on the ally's roll).
+### Skill Checks
+Skill checks can only be rolled once for the party unless some significant change is introduced in the approach to the task. Only characters with proficiency in a skill can aid an ally in their skill check (which provides advantage on the ally's roll).
+
+### Skill Challenges
+During skill challenges, each party member can select any skill to use on their turn. The same skill cannot be used by two consecutive players or by the same player on consecutive turns. The DM will set a DC for each check based on the suitability of the skill to the challenge and on the use described by the player. The DC for some types of check (e.g. a stealth check) may be set based on an opponent's passive skill (e.g. passive perception). Skill checks cannot be used against other party members (e.g. persuasion, deception, or athletics cannot be used to influence another player's story).
 
 ### Haggling Check
 Vendors in some cultures or locations may be open to haggling over the price of goods. All haggling will be settled with a contested skill check and not through role-playing.
@@ -153,10 +159,9 @@ Wisdom can be used as a “willpower saving throw” to occasionally determine w
 ### Nonlethal Damage
 Calling out non-lethal damage implies a different use of the weapon in hand, which does 1d6 base damage + STR/DEX mod (no magic bonuses). Spells or other magical effects cannot be modified to inflict non-lethal damage.
 
-### Casting Rituals
-While casting a ritual, the caster must remain stationary for the duration of the ritual or effect.
-
-
+<img 
+  src='http://i.imgur.com/hMna6G0.png' 
+  style='position:absolute; top:650px; right:30px; width:280px' />
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>PART III | HOUSE RULES</div>
