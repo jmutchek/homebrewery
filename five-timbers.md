@@ -18,14 +18,14 @@ ___
 > - **Languages** Common, Elvish
 > ___
 >
-> *** Obsession. *** Five Timbers is obsessed with the legend Climbing Rocks, a Tabaxi clan that mysteriously disappeared a generation ago.
+> ***Obsession.*** Five Timbers is obsessed with the legend Climbing Rocks, a Tabaxi clan that mysteriously disappeared a generation ago.
 >
-> *** Quirks. *** When idle, Five Timbers pulls out a bit of string and weaves complex patterns between her nimble fingers.
+> ***Quirks.*** When idle, Five Timbers pulls out a bit of string and weaves complex patterns between her nimble fingers.
 >
-> *** Feline Agility. ***
+> ***Feline Agility.***
 Five Timbers' reflexes and agility allow her to move with a burst of speed. When she moves on your turn in combat, she can double her speed until the end of the turn. Once this trait is used, it can’t be used again until Timbers moves 0 feet on a turn.
 >
-> *** Spellcasting.*** Five Timbers is a 4th level wizard. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She knows the following wizard spells:
+> ***Spellcasting.*** Five Timbers is an self-taught spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She knows the following wizard spells, of which she can prepare 5 during a long rest:
 >
 > Cantrips (at will): light, mending, mold earth, minor illusion
 >
@@ -34,10 +34,20 @@ Five Timbers' reflexes and agility allow her to move with a burst of speed. When
 > 2nd level (3 slots): blur, enlarge/reduce, knock, locate object, misty step, see invisibility, spider climb
 >
 > ### Actions
-> *** Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. Hit 6 piercing (1d8 + 1)
+> ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. Hit 6 piercing (1d8 + 1)
 >
-> *** Hunting Knife.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 slicing (1d4 + 1) 
+> ***Hunting Knife.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 slicing (1d4 + 1) 
 >
-> *** Unarmed strike.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 bludgeoning (1d4 + 1) 
+> ***Unarmed strike.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 bludgeoning (1d4 + 1) 
+
+&nbsp;
+
+> ##### Game Notes
+> Five Timbers is not a full wizard, but is based loosely on the wizard class and is based on a modified version of the Retainer rules in Strongholds & Followers 1.12. 
+> 
+> - Timber acts on the PC's initiative but can take actions and move independently.
+> - To speed up combat, she automatically hits with her longbow when the PC hits with an attack or spell, but can also roll to attack if the PC misses or does not attack.
+> - Her prepared spell count is determined by proficiency bonus + intelligence modifier.
+> - Timber levels up one level on odd PC levels.
 
 
