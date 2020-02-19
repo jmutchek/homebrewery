@@ -20,7 +20,7 @@ ___
 >
 > ***Obsession.*** Five Timbers is obsessed with the legend Climbing Rocks, a Tabaxi clan that mysteriously disappeared a generation ago.
 >
-> ***Quirks.*** When idle, Five Timbers pulls out a bit of string and weaves complex patterns between her nimble fingers.
+> ***Quirks.*** When idle, Five Timbers pulls a bit of string out of a pouch and weaves complex patterns between her nimble fingers.
 >
 > ***Feline Agility.***
 Five Timbers' reflexes and agility allow her to move with a burst of speed. When she moves on your turn in combat, she can double her speed until the end of the turn. Once this trait is used, it can’t be used again until Timbers moves 0 feet on a turn.
@@ -34,20 +34,21 @@ Five Timbers' reflexes and agility allow her to move with a burst of speed. When
 > 2nd level (3 slots): blur, enlarge/reduce, knock, locate object, misty step, see invisibility, spider climb
 >
 > ### Actions
-> ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. Hit 6 piercing (1d8 + 1)
+> ***Longbow.*** *Default ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. Hit 6 piercing (1d8 + 1)
 >
-> ***Hunting Knife.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 slicing (1d4 + 1) 
+> ***Hunting Knife.*** *Default melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 slicing (1d4 + 1) 
 >
 > ***Unarmed strike.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 3 bludgeoning (1d4 + 1) 
 
 &nbsp;
 
 > ##### Game Notes
-> Five Timbers is not a full wizard, but is based loosely on the wizard class and is based on a modified version of the Retainer rules in Strongholds & Followers 1.12. 
+> Five Timbers is not a full wizard, but is based loosely on the wizard class and is based on a modified version of the Retainer rules in Strongholds & Followers 1.12 (page 69). 
 > 
 > - Timber acts on the PC's initiative but can take actions and move independently.
 > - To speed up combat, she automatically hits with her longbow when the PC hits with an attack or spell, but can also roll to attack if the PC misses or does not attack.
+> - Retainers only make death daving throws after being at 0 hit points for 10 minutes; death is instant if a single blow causes damage over 2x the retainers maximum hp.
 > - Her prepared spell count is determined by proficiency bonus + intelligence modifier.
-> - Timber levels up one level on odd PC levels.
+> - Timber levels up one level on even PC levels.
 
 

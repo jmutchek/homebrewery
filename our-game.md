@@ -159,11 +159,12 @@ Wisdom can be used as a “willpower saving throw” to occasionally determine w
 ### Nonlethal Damage
 Calling out non-lethal damage implies a different use of the weapon in hand, which does 1d6 base damage + STR/DEX mod (no magic bonuses). Spells or other magical effects cannot be modified to inflict non-lethal damage.
 
-<img 
-  src='http://i.imgur.com/hMna6G0.png' 
-  style='position:absolute; top:650px; right:30px; width:280px' />
+### Retainers & Followers
+NPCs that join the party are called followers and generally obey the party's orders. Followers level up slowly, only when PCs achieve even levels, to a maximum of 7th level.
+
+&nbsp;
+
+In combat followers act on a PCs initiative, moving and acting independently. When you hit with an attack or spell your follower also hits with their default attack, even if you are attacking different targets. They make their own attack roles only if you do not attack or if you miss. When a follower drops to zero hit points, they fall unconscious, making death saving throws after 10 minutes. Followers are killed instantly if they drop below 2x of their maximum hit point value.
 
 <div class='pageNumber'>3</div>
 <div class='footnote'>PART III | HOUSE RULES</div>
-
-
